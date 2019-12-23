@@ -1,0 +1,43 @@
+<msg time='2019-12-21T15:34:58.829+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-ISQBCMF' host_addr='fe80::d0bf:ac4d:8d10:4841%10'
+ version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2019-12-21T15:34:59.048+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-ISQBCMF' host_addr='fe80::d0bf:ac4d:8d10:4841%10'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2019-12-21T15:34:59.235+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-ISQBCMF' host_addr='fe80::d0bf:ac4d:8d10:4841%10'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2019-12-21T15:34:59.798+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-ISQBCMF' host_addr='fe80::d0bf:ac4d:8d10:4841%10'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2019-12-21T15:35:00.204+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-ISQBCMF'
+ host_addr='fe80::d0bf:ac4d:8d10:4841%10'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+ </txt>
+</msg>
+<msg time='2019-12-21T15:35:07.612+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-ISQBCMF'
+ host_addr='fe80::d0bf:ac4d:8d10:4841%10'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+ </txt>
+</msg>
+<msg time='2019-12-21T15:37:20.173+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-ISQBCMF'
+ host_addr='fe80::d0bf:ac4d:8d10:4841%10'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
